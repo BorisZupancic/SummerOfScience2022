@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/boris/Manim Animation/media/videos/Series/1080p60/partial_movie_files/sawtooth/450974505_756953537_223132457.mp4'
+file 'file:/home/boris/Manim Animation/media/videos/Series/1080p60/partial_movie_files/sawtooth/34786186_329969645_3597839937.mp4'
+file 'file:/home/boris/Manim Animation/media/videos/Series/1080p60/partial_movie_files/sawtooth/34786186_267066987_988978540.mp4'
+file 'file:/home/boris/Manim Animation/media/videos/Series/1080p60/partial_movie_files/sawtooth/34786186_3580130516_2056986811.mp4'
+file 'file:/home/boris/Manim Animation/media/videos/Series/1080p60/partial_movie_files/sawtooth/34786186_329969645_3445180684.mp4'
+file 'file:/home/boris/Manim Animation/media/videos/Series/1080p60/partial_movie_files/sawtooth/34786186_1968590688_1254543322.mp4'
+file 'file:/home/boris/Manim Animation/media/videos/Series/1080p60/partial_movie_files/sawtooth/34786186_329969645_3358372155.mp4'

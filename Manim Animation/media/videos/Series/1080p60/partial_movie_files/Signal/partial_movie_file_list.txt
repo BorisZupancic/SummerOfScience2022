@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/boris/Manim Animation/media/videos/Series/1080p60/partial_movie_files/Signal/450974505_431956777_223132457.mp4'
+file 'file:/home/boris/Manim Animation/media/videos/Series/1080p60/partial_movie_files/Signal/34786186_329969645_1607702150.mp4'
+file 'file:/home/boris/Manim Animation/media/videos/Series/1080p60/partial_movie_files/Signal/34786186_2637722824_2985744111.mp4'
+file 'file:/home/boris/Manim Animation/media/videos/Series/1080p60/partial_movie_files/Signal/34786186_329969645_3217300537.mp4'

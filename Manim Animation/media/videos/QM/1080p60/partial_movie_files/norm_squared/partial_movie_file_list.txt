@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/boris/Manim Animation/media/videos/QM/1080p60/partial_movie_files/norm_squared/450974505_1271143254_223132457.mp4'
+file 'file:/home/boris/Manim Animation/media/videos/QM/1080p60/partial_movie_files/norm_squared/34786186_1458974483_4166436990.mp4'
+file 'file:/home/boris/Manim Animation/media/videos/QM/1080p60/partial_movie_files/norm_squared/34786186_329969645_2757832657.mp4'
+file 'file:/home/boris/Manim Animation/media/videos/QM/1080p60/partial_movie_files/norm_squared/34786186_329969645_2786209797.mp4'
+file 'file:/home/boris/Manim Animation/media/videos/QM/1080p60/partial_movie_files/norm_squared/34786186_1329571397_2384593767.mp4'
+file 'file:/home/boris/Manim Animation/media/videos/QM/1080p60/partial_movie_files/norm_squared/34786186_3425925012_3109659132.mp4'
+file 'file:/home/boris/Manim Animation/media/videos/QM/1080p60/partial_movie_files/norm_squared/34786186_329969645_3655809723.mp4'

@@ -1,0 +1,3 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/boris/Manim Animation/media/videos/TeXBuilder/1080p60/partial_movie_files/DrawTeX/450974505_336968804_223132457.mp4'
+file 'file:/home/boris/Manim Animation/media/videos/TeXBuilder/1080p60/partial_movie_files/DrawTeX/34786186_329969645_1233151138.mp4'

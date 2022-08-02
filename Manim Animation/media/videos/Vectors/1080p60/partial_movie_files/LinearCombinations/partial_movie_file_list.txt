@@ -1,0 +1,13 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/boris/Manim Animation/media/videos/Vectors/1080p60/partial_movie_files/LinearCombinations/450974505_2192614497_223132457.mp4'
+file 'file:/home/boris/Manim Animation/media/videos/Vectors/1080p60/partial_movie_files/LinearCombinations/34786186_329969645_1096047345.mp4'
+file 'file:/home/boris/Manim Animation/media/videos/Vectors/1080p60/partial_movie_files/LinearCombinations/34786186_355177199_648602128.mp4'
+file 'file:/home/boris/Manim Animation/media/videos/Vectors/1080p60/partial_movie_files/LinearCombinations/34786186_97874238_2386146906.mp4'
+file 'file:/home/boris/Manim Animation/media/videos/Vectors/1080p60/partial_movie_files/LinearCombinations/34786186_329969645_142515166.mp4'
+file 'file:/home/boris/Manim Animation/media/videos/Vectors/1080p60/partial_movie_files/LinearCombinations/34786186_3943648678_4288179556.mp4'
+file 'file:/home/boris/Manim Animation/media/videos/Vectors/1080p60/partial_movie_files/LinearCombinations/34786186_329969645_2551183017.mp4'
+file 'file:/home/boris/Manim Animation/media/videos/Vectors/1080p60/partial_movie_files/LinearCombinations/34786186_1402718805_4260225254.mp4'
+file 'file:/home/boris/Manim Animation/media/videos/Vectors/1080p60/partial_movie_files/LinearCombinations/34786186_329969645_573476668.mp4'
+file 'file:/home/boris/Manim Animation/media/videos/Vectors/1080p60/partial_movie_files/LinearCombinations/34786186_2106311552_4039311557.mp4'
+file 'file:/home/boris/Manim Animation/media/videos/Vectors/1080p60/partial_movie_files/LinearCombinations/34786186_329969645_989708136.mp4'
+file 'file:/home/boris/Manim Animation/media/videos/Vectors/1080p60/partial_movie_files/LinearCombinations/34786186_329969645_4057924132.mp4'
