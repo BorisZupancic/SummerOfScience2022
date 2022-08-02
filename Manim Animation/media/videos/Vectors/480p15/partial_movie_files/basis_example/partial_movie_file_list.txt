@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/boris/Manim Animation/media/videos/Vectors/480p15/partial_movie_files/basis_example/3163782288_3475468145_223132457.mp4'
+file 'file:/home/boris/Manim Animation/media/videos/Vectors/480p15/partial_movie_files/basis_example/2201830969_847780354_3554740119.mp4'
+file 'file:/home/boris/Manim Animation/media/videos/Vectors/480p15/partial_movie_files/basis_example/2201830969_355999858_2235823915.mp4'
+file 'file:/home/boris/Manim Animation/media/videos/Vectors/480p15/partial_movie_files/basis_example/2201830969_868301895_3825480585.mp4'
+file 'file:/home/boris/Manim Animation/media/videos/Vectors/480p15/partial_movie_files/basis_example/2201830969_1522746411_516599158.mp4'
+file 'file:/home/boris/Manim Animation/media/videos/Vectors/480p15/partial_movie_files/basis_example/2201830969_627390899_1111839593.mp4'
+file 'file:/home/boris/Manim Animation/media/videos/Vectors/480p15/partial_movie_files/basis_example/2201830969_2901580068_2011671212.mp4'

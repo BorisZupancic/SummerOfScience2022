@@ -1,0 +1,2 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/boris/Manim Animation/media/videos/SR/1080p60/partial_movie_files/Minkowski_3D/881989838_3315967912_420804665.mp4'

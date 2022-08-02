@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/boris/Manim Animation/media/videos/Vectors/480p15/partial_movie_files/vector_example/3163782288_3475468145_223132457.mp4'
+file 'file:/home/boris/Manim Animation/media/videos/Vectors/480p15/partial_movie_files/vector_example/2201830969_627390899_1576240806.mp4'
+file 'file:/home/boris/Manim Animation/media/videos/Vectors/480p15/partial_movie_files/vector_example/2201830969_1828112592_923087831.mp4'

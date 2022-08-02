@@ -1,0 +1,11 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/boris/Manim Animation/media/videos/Vectors/1080p60/partial_movie_files/TipTail_Addition/450974505_1707823266_223132457.mp4'
+file 'file:/home/boris/Manim Animation/media/videos/Vectors/1080p60/partial_movie_files/TipTail_Addition/34786186_329969645_2378149112.mp4'
+file 'file:/home/boris/Manim Animation/media/videos/Vectors/1080p60/partial_movie_files/TipTail_Addition/34786186_3112597051_1463862778.mp4'
+file 'file:/home/boris/Manim Animation/media/videos/Vectors/1080p60/partial_movie_files/TipTail_Addition/34786186_329969645_329619407.mp4'
+file 'file:/home/boris/Manim Animation/media/videos/Vectors/1080p60/partial_movie_files/TipTail_Addition/34786186_4168306092_2003137410.mp4'
+file 'file:/home/boris/Manim Animation/media/videos/Vectors/1080p60/partial_movie_files/TipTail_Addition/34786186_329969645_4026429870.mp4'
+file 'file:/home/boris/Manim Animation/media/videos/Vectors/1080p60/partial_movie_files/TipTail_Addition/34786186_3206933763_2517663368.mp4'
+file 'file:/home/boris/Manim Animation/media/videos/Vectors/1080p60/partial_movie_files/TipTail_Addition/34786186_329969645_3915816073.mp4'
+file 'file:/home/boris/Manim Animation/media/videos/Vectors/1080p60/partial_movie_files/TipTail_Addition/34786186_2780537271_1516421879.mp4'
+file 'file:/home/boris/Manim Animation/media/videos/Vectors/1080p60/partial_movie_files/TipTail_Addition/34786186_329969645_3125630345.mp4'
