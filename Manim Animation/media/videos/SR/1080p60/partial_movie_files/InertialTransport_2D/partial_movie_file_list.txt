@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/boris/Documents/GitHub/SummerOfScience2022/Manim Animation/media/videos/SR/1080p60/partial_movie_files/InertialTransport_2D/450974505_3515417653_223132457.mp4'
+file 'file:/home/boris/Documents/GitHub/SummerOfScience2022/Manim Animation/media/videos/SR/1080p60/partial_movie_files/InertialTransport_2D/34786186_329969645_1901196744.mp4'
+file 'file:/home/boris/Documents/GitHub/SummerOfScience2022/Manim Animation/media/videos/SR/1080p60/partial_movie_files/InertialTransport_2D/34786186_1698689017_3856617236.mp4'
+file 'file:/home/boris/Documents/GitHub/SummerOfScience2022/Manim Animation/media/videos/SR/1080p60/partial_movie_files/InertialTransport_2D/34786186_329969645_1905999440.mp4'
+file 'file:/home/boris/Documents/GitHub/SummerOfScience2022/Manim Animation/media/videos/SR/1080p60/partial_movie_files/InertialTransport_2D/34786186_415620384_1161777241.mp4'
+file 'file:/home/boris/Documents/GitHub/SummerOfScience2022/Manim Animation/media/videos/SR/1080p60/partial_movie_files/InertialTransport_2D/34786186_36632488_3426465732.mp4'
