@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/boris/Documents/GitHub/SummerOfScience2022/Manim Animation/media/videos/SR/1080p60/partial_movie_files/ParallelTransport_2D/450974505_3513784182_223132457.mp4'
+file 'file:/home/boris/Documents/GitHub/SummerOfScience2022/Manim Animation/media/videos/SR/1080p60/partial_movie_files/ParallelTransport_2D/34786186_3174413465_1100505368.mp4'
+file 'file:/home/boris/Documents/GitHub/SummerOfScience2022/Manim Animation/media/videos/SR/1080p60/partial_movie_files/ParallelTransport_2D/34786186_329969645_4276706375.mp4'
+file 'file:/home/boris/Documents/GitHub/SummerOfScience2022/Manim Animation/media/videos/SR/1080p60/partial_movie_files/ParallelTransport_2D/34786186_1064528543_283911553.mp4'
+file 'file:/home/boris/Documents/GitHub/SummerOfScience2022/Manim Animation/media/videos/SR/1080p60/partial_movie_files/ParallelTransport_2D/34786186_329969645_831604691.mp4'
+file 'file:/home/boris/Documents/GitHub/SummerOfScience2022/Manim Animation/media/videos/SR/1080p60/partial_movie_files/ParallelTransport_2D/34786186_2212555158_1668615721.mp4'
+file 'file:/home/boris/Documents/GitHub/SummerOfScience2022/Manim Animation/media/videos/SR/1080p60/partial_movie_files/ParallelTransport_2D/34786186_329969645_2338905850.mp4'
+file 'file:/home/boris/Documents/GitHub/SummerOfScience2022/Manim Animation/media/videos/SR/1080p60/partial_movie_files/ParallelTransport_2D/34786186_2533542568_3696108068.mp4'
+file 'file:/home/boris/Documents/GitHub/SummerOfScience2022/Manim Animation/media/videos/SR/1080p60/partial_movie_files/ParallelTransport_2D/34786186_36632488_4278367957.mp4'

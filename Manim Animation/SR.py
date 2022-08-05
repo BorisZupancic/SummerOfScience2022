@@ -10,6 +10,101 @@ class Minkowski_2D(Scene):
         self.add(labels)
         self.wait()
 
+class InertialTransport_2D(Scene):
+    def construct(self):
+        x_max = 4
+        y_max = 3
+        axes = Axes(x_range = [-3*x_max,3*x_max],y_range = [-3*y_max,3*y_max], x_length = 2*x_max, y_length = 2*y_max, tips = True)
+        
+        labels = axes.get_axis_labels(x_label = "x", y_label = "t")
+        
+        v1 = np.array([3,4])
+        vector1 = Line(start = axes.coords_to_point(0,0), end = axes.coords_to_point(v1[0],v1[1]), stroke_color = BLUE).add_tip()
+		
+        graph = axes.plot(function = lambda x : (v1[1]/v1[0])*x,x_range = [-11,11]).set_color(BLUE)
+
+        self.play(DrawBorderThenFill(axes), run_time = 2)
+        self.add(labels)
+        self.wait()
+        self.play(GrowFromPoint(vector1, point = vector1.get_start()), run_time = 1)
+        self.wait()
+        self.play(Transform(vector1,graph), run_time = 2)
+        self.wait(5)
+
+class ParallelTransport_2D(Scene):
+    def construct(self):
+        x_max = 4
+        y_max = 3
+        axes = Axes(x_range = [-2*x_max,2*x_max],y_range = [-5*y_max,5*y_max], x_length = 3*x_max, y_length = 2*y_max, tips = True)
+        
+        labels = axes.get_axis_labels(x_label = "x", y_label = "t")
+        
+        f = lambda x : 0.05*x**3-0.5*x**2
+        x_init = -4
+        x_fin = 8
+        v1 = np.array([-3,4])
+        
+        vector1 = Line(start = axes.coords_to_point(x_init,f(x_init)), end = axes.coords_to_point(v1[0]+x_init,v1[1]+f(x_init)), stroke_color = RED).add_tip()
+		
+        vector2 = Line(start = axes.coords_to_point(x_fin,f(x_fin)), end = axes.coords_to_point(v1[0]+x_fin,v1[1]+f(x_fin)), stroke_color = RED).add_tip()
+		
+        graph = axes.plot(function = f,x_range = [-11,11]).set_color(BLUE)
+        #Path to move along:
+        #shifted horizontally by v1[0]/2, vertically by v1[1]/2
+        path = axes.plot(function = lambda x : 0.05*(x-v1[0]/2)**3-0.5*(x-v1[0]/2)**2 + v1[1]/2,x_range = [x_init+v1[0]/2,x_fin+v1[0]/2]).set_color(BLUE)
+
+        self.play(DrawBorderThenFill(axes), run_time = 2)
+        self.play(Write(labels))
+        self.wait()
+        self.play(Create(graph))
+        self.wait()
+        self.play(GrowFromPoint(vector1, point = vector1.get_start()), run_time = 1)
+        self.wait()
+        self.play(MoveAlongPath(vector1,path,run_time=2))
+        self.wait(5)
+
+
+class Multi_InertTrans_2D(Scene):
+    def construct(self):
+        x_max = 4
+        y_max = 3
+        axes = Axes(x_range = [-3*x_max,3*x_max],y_range = [-3*y_max,3*y_max], x_length = 2*x_max, y_length = 2*y_max, tips = True)
+        
+        labels = axes.get_axis_labels(x_label = "x", y_label = "t")
+        self.play(DrawBorderThenFill(axes), run_time = 2)
+        self.add(labels)
+        self.wait()
+        
+        
+        v1 = np.array([3,4])
+        vector1 = Line(start = axes.coords_to_point(0,0), end = axes.coords_to_point(v1[0],v1[1]), stroke_color = BLUE).add_tip()
+        graph1= axes.plot(function = lambda x : (v1[1]/v1[0])*x,x_range = [-11,11]).set_color(BLUE)
+
+        v2 = np.array([1,7])
+        vector2 = Line(start = axes.coords_to_point(0,0), end = axes.coords_to_point(v2[0],v2[1]), stroke_color = RED).add_tip()
+        graph2 = axes.plot(function = lambda x : (v2[1]/v2[0])*x,x_range = [-11,11]).set_color(RED)
+
+        v3 = np.array([-3,6])
+        vector3 = Line(start = axes.coords_to_point(0,0), end = axes.coords_to_point(v3[0],v3[1]), stroke_color = GREEN).add_tip()
+        graph3 = axes.plot(function = lambda x : (v3[1]/v3[0])*x,x_range = [-11,11]).set_color(GREEN)
+
+        v4 = np.array([-2,-6])
+        vector4 = Line(start = axes.coords_to_point(0,0), end = axes.coords_to_point(v4[0],v4[1]), stroke_color = YELLOW).add_tip()
+        graph4 = axes.plot(function = lambda x : (v4[1]/v4[0])*x,x_range = [-11,11]).set_color(YELLOW)
+        
+        self.play(GrowFromPoint(vector1, point = vector1.get_start()), 
+                GrowFromPoint(vector2, point = vector2.get_start()),
+                GrowFromPoint(vector3, point = vector3.get_start()),
+                GrowFromPoint(vector4, point = vector4.get_start()),run_time = 1)
+        self.wait()
+        self.play(Transform(vector1,graph1),
+                Transform(vector2,graph2),
+                Transform(vector3,graph3),
+                Transform(vector4,graph4), run_time = 2)
+            
+        self.wait(5)
+        
+
 class Minkowski_3D(ThreeDScene):
     def construct(self):
         axes = ThreeDAxes()
